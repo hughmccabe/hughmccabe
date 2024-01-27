@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hughmccabe
-- 👀 I’m interested in ... playing/making video games and music
-- 🌱 I’m currently learning ... GitHub, Unity, Maya, and Construct
-- 💞️ I’m looking to collaborate on ... games and school projects
-- 📫 How to reach me ...
+- 👀 I’m interested in making video games and music, I specialize in 3D modeling and texturing
+- 🌱 I’m currently using GitHub, Unity, Maya, Substance Painter, Unreal, also printing with Cura and audio with audacity
+- 💞️ I’m looking to collaborate on game projects
+  
 
 <!---
 hughmccabe/hughmccabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
